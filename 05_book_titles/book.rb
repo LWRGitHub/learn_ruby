@@ -27,4 +27,3 @@ class Book
     return @title
   end
 end
-
